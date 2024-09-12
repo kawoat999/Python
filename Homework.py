@@ -1,9 +1,5 @@
 import turtle
 
-
-
-
-
 turtle.penup()
 turtle.right(180)
 turtle.forward(190)

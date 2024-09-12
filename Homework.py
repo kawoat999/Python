@@ -124,6 +124,4 @@ turtle.circle(150,40)
 turtle.penup()
 turtle.left(90)
 
-
-
 turtle.mainloop()

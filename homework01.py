@@ -77,6 +77,7 @@ turtle.begin_fill()
 turtle.circle(-20)
 turtle.end_fill()
 turtle.penup()
+
 turtle.right(90)
 turtle.forward(20)
 turtle.left(140)

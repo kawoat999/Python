@@ -1,4 +1,4 @@
 
-Total cost: 3210.00 baht (ต้นทุนรวมทั้งหมด)
-Total sales: 2600.00 baht (ยอดขายรวมทั้งหมด)
-Total profit: -610.00 baht (กำไรรวมทั้งหมด)
+Total cost: 2700.00 baht (ต้นทุนรวมทั้งหมด)
+Total sales: 40500.00 baht (ยอดขายรวมทั้งหมด)
+Total profit: 37800.00 baht (กำไรรวมทั้งหมด)
